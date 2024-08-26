@@ -13,7 +13,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        System.out.println("calling test method.. ");
+        System.out.println("calling test method..project01 ");
     }
     
     
